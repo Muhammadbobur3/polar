@@ -108,6 +108,7 @@ body {
   padding: 14px 0;
   width: 165px;
   border-radius: 5px;
+  cursor: pointer;
   background: var(--brand-color);
 }
 
